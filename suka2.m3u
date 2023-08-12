@@ -140,7 +140,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="AstroWarna.my" ch-number="132" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna
-https://gdp.eurytus.feralhosting.com/restreams/astwar/index.txt
+https://gdp.eurytus.feralhosting.com/restreams/
   
 #EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3293,7 +3293,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+https://bstvcdn.ballbar.net/Assp1/playlist-15.m3u8a?t=1691860768&token=f4e2472ad7959e0c7f5024af0fd9a52d
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qUXdPRFk1WmpFdE1XRTNZUzAwTm1GbExUZ3lZelF0Wm1GbFpHWXhPVFpqWkRCaSIsIndtb3BpZCI6MzIsImV4cCI6MTY5MjA5Njk2MywiaWF0IjoxNjkxNDkyOTYzfQ.0NaarmsqZW9GYFP0UW9aweAi1QSkHCvxvTyBfMRt1x4"}
