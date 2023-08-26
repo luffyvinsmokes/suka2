@@ -4625,13 +4625,10 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-id="803.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="MALAYSIA SUPER LEAGUE",Astro Arena Bola
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qUXdPRFk1WmpFdE1XRTNZUzAwTm1GbExUZ3lZelF0Wm1GbFpHWXhPVFpqWkRCaSIsIndtb3BpZCI6MzIsImV4cCI6MTY5MjA5Njk2MywiaWF0IjoxNjkxNDkyOTYzfQ.0NaarmsqZW9GYFP0UW9aweAi1QSkHCvxvTyBfMRt1x4"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png" group-title="MALAYSIA SUPER LEAGUE",804 Astro Arena Bola 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tUXhZMkU1WldRdE1UWTNaUzAwTlRZMExUZ3haV0l0T1dRNE1UazRPRFZrTjJFeCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIzNzY2MiwiaWF0IjoxNjkyNjMzNjYyfQ.wJ9yhSE_Tp7dPzqXQdMZNB0Ait9e-XqtYO2KdGOC07A"}
+#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-title="Sports",Astro Arena Bola 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
