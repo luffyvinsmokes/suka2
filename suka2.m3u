@@ -142,7 +142,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroWarna.my" ch-number="132" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CoDiDFaOiOU8cIfBxkkzGA","kid":"qixlPwwFVnrig8SjJxqYEA"}],"type":"temporary"}
-http://208.115.214.71:2095/live/lynn89/lynn89/912836.ts
+http://208.115.214.71:2095/live/lynn89/lynn89/912836.ts?token=GEFeAEAMEQ5EBFxRAgwFAlIDU1FXBVdQDggGV1lVVloGUVRTAl1XBlIRFUcSTBRRUgg6WwEVC1gGAggBVxpAFhAGRD5aABEORAANVlYPRBgREQxfABULUAEJAwJQDlpbUU8UEVoAEQ5EAAlQWApEGBEAHUYARV8AW29UVxdfAQZBWVgUXwgfFgldZgEEVQdaV0dfEFUVHUNeQ0AQW1gXDw9PFANaEEFVElYbX0MJUAABR0kQBlhED0NCSRBbFDcwQU8UBEsQVloVWlYLQwJEQEBHSRAMRG4TUkNEQARXDwYRQQxDA0YfFgtSQToCVwhaVgYRWwpZQkMNEgEQTRQPDA0KQg5BO0NdAhEDR1AAVQIERxg=
   
 #EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
